@@ -7,7 +7,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/sweatydev/Laravel-Vue-booking.git
+git clone https://github.com/dandytopstar/BookingSystem-Laravel-React.git
 
 Then cd into the folder with this command:
 
